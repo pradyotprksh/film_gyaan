@@ -1,6 +1,6 @@
 ## IN DEVELOPMENT
 
-# film_gyaan
+# [film_gyaan](https://pub.dev/packages/film_gyaan)
 
 An unofficial dart SDK which will connect to https://api.themoviedb.org/ for you.
 
